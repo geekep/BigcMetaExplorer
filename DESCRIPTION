@@ -1,0 +1,25 @@
+Package: BigcMetaExplorer
+Type: Package
+Title: Visualize and analyze metagenomics classification results
+Version: 1.2.1
+URL: https://github.com/geekep/BigcMetaExplorer
+BugReports: https://github.com/geekep/BigcMetaExplorer/issues
+Authors@R: person("Zhen Xu", email = "xuzhen3039@stu.xjtu.edu.cn", role = c("aut", "cre"))
+Description: R package and Shiny app to visualize and analyze metagenomics classification results from
+    Kraken, Centrifuge and MetaPhlAn.
+Imports: shiny (>= 0.1.12), shinydashboard, shinyjs, shinyWidgets (>=
+        0.4.1.970), DT, dplyr, htmltools, htmlwidgets, plyr, rmarkdown,
+        sankeyD3, shinyFileTree, RColorBrewer, colorspace, ggplot2,
+        rhandsontable
+Suggests: 
+    BiocManager,
+    Rsamtools,
+    knitr,
+    testthat
+Remotes: github::geekep/sankeyD3,
+        github::geekep/shinyFileTree
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 7.1.0
+VignetteBuilder: knitr
+NeedsCompilation: no

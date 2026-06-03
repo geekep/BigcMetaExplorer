@@ -1,0 +1,100 @@
+ 81.14	7629151	7629151	0	0	U	0	unclassified
+ 18.86	1773599	25000	11105228	1273126	R	1	root
+ 18.59	1748041	1891	10864081	1267932	R1	131567	  cellular organisms
+ 18.38	1728370	17924	10649930	1190878	D	2	    Bacteria
+ 17.04	1601958	14330	9570482	625499	D1	1783272	      Terrabacteria group
+ 11.51	1081908	370	6381514	143162	P	1239	        Firmicutes
+ 11.50	1081161	2253	6366183	140456	C	91061	          Bacilli
+ 11.46	1077647	1458	6326807	133788	O	1385	            Bacillales
+ 11.44	1075939	525	6284529	130607	F	90964	              Staphylococcaceae
+ 11.44	1075410	124144	6274818	130431	G	1279	                Staphylococcus
+ 10.08	947816	946503	4667012	83654	S	1280	                  Staphylococcus aureus
+  0.01	1205	423	3751	253	S1	46170	                    Staphylococcus aureus subsp. aureus
+  0.00	234	234	696	35	S2	1381115	                      Staphylococcus aureus subsp. aureus Tager 104
+  0.00	214	214	663	88	S2	869816	                      Staphylococcus aureus subsp. aureus JKD6159
+  0.00	137	137	367	11	S2	1392476	                      Staphylococcus aureus subsp. aureus 6850
+  0.00	114	114	140	4	S2	1074919	                      Staphylococcus aureus subsp. aureus ST228
+  0.00	25	25	118	3	S2	548473	                      Staphylococcus aureus subsp. aureus TCH60
+  0.00	20	20	42	1	S2	1123523	                      Staphylococcus aureus subsp. aureus 11819-97
+  0.00	15	15	57	4	S2	1028799	                      Staphylococcus aureus subsp. aureus VC40
+  0.00	8	8	29	1	S2	1201010	                      Staphylococcus aureus subsp. aureus SA957
+  0.00	7	7	25	4	S2	1006543	                      Staphylococcus aureus subsp. aureus T0131
+  0.00	3	3	40	2	S2	1406863	                      Staphylococcus aureus subsp. aureus Z172
+  0.00	2	0	5	4	S2	1196216	                      Staphylococcus aureus subsp. aureus ST72
+  0.00	2	2	5	4	S3	1193576	                        Staphylococcus aureus subsp. aureus CN1
+  0.00	1	1	1	1	S2	685039	                      Staphylococcus aureus subsp. aureus ED133
+  0.00	1	1	3	3	S2	985006	                      Staphylococcus aureus subsp. aureus LGA251
+  0.00	1	1	2	2	S2	889933	                      Staphylococcus aureus subsp. aureus ECT-R 2
+  0.00	85	85	223	11	S1	273036	                    Staphylococcus aureus RF122
+  0.00	17	17	69	5	S1	1323661	                    Staphylococcus aureus CA-347
+  0.00	3	3	7	5	S1	1458279	                    Staphylococcus aureus USA300-ISMMS1
+  0.00	2	2	7	7	S1	948563	                    Staphylococcus aureus O46
+  0.00	1	1	1	1	S1	1305598	                    Staphylococcus aureus M1
+  0.02	1521	1521	8183	6515	S	45972	                  Staphylococcus pasteuri
+  0.01	672	672	2572	2027	S	1292	                  Staphylococcus warneri
+  0.01	513	513	2969	2300	S	1282	                  Staphylococcus epidermidis
+  0.00	231	231	1329	1061	S	29388	                  Staphylococcus capitis
+  0.00	118	118	696	129	S	1654388	                  Staphylococcus schweitzeri
+  0.00	118	118	523	362	S	1290	                  Staphylococcus hominis
+  0.00	63	63	316	40	S	308354	                  Staphylococcus simiae
+  0.00	38	38	206	183	S	29385	                  Staphylococcus saprophyticus
+  0.00	35	35	269	39	S	985002	                  Staphylococcus argenteus
+  0.00	24	24	204	81	S	29380	                  Staphylococcus caprae
+  0.00	18	18	155	118	S	1283	                  Staphylococcus haemolyticus
+  0.00	15	15	150	55	S	29379	                  Staphylococcus auricularis
+  0.00	13	13	137	63	S	29382	                  Staphylococcus cohnii
+  0.00	12	12	109	35	S	1288	                  Staphylococcus xylosus
+  0.00	11	11	180	49	S	214473	                  Staphylococcus nepalensis
+  0.00	7	7	48	39	S	28035	                  Staphylococcus lugdunensis
+  0.00	6	6	80	13	S	29384	                  Staphylococcus kloosii
+  0.00	5	5	33	27	S	29378	                  Staphylococcus arlettae
+  0.00	4	4	67	6	S	46126	                  Staphylococcus chromogenes
+  0.00	4	4	23	12	S	42858	                  Staphylococcus lentus
+  0.00	3	3	18	15	S	283734	                  Staphylococcus pseudintermedius
+  0.00	3	3	12	9	S	170573	                  Staphylococcus pettenkoferi
+  0.00	3	0	15	14	G1	91994	                  unclassified Staphylococcus
+  0.00	2	2	3	2	S	1912064	                    Staphylococcus sp. MI 10-1553
+  0.00	1	1	1	1	S	2044912	                    Staphylococcus sp. SDB 2975
+  0.00	2	2	5	5	S	1281	                  Staphylococcus carnosus
+  0.00	2	2	4	4	S	155085	                  Staphylococcus lutrae
+  0.00	2	2	11	8	S	1295	                  Staphylococcus schleiferi
+  0.00	2	2	14	13	S	70255	                  Staphylococcus condimenti
+  0.00	1	1	13	10	S	71237	                  Staphylococcus vitulinus
+  0.00	1	1	4	4	S	643214	                  Staphylococcus stepanovicii
+  0.00	1	1	4	4	S	70258	                  Staphylococcus piscifermentans
+  0.00	1	1	3	3	S	53344	                  Staphylococcus delphini
+  0.00	1	1	70	9	S	46127	                  Staphylococcus felis
+  0.00	2	0	14	14	G	2005363	                Auricoccus
+  0.00	2	2	14	14	S	1849491	                  Auricoccus indicus
+  0.00	1	1	11	11	G	69965	                Macrococcus
+  0.00	1	0	5	5	G	227979	                Jeotgalicoccus
+  0.00	1	1	5	5	S	1461582	                  Jeotgalicoccus saudimassiliensis
+  0.00	154	8	1507	1172	F	186817	              Bacillaceae
+  0.00	93	7	921	697	G	1386	                Bacillus
+  0.00	48	48	272	222	S	35841	                  Bacillus thermoamylovorans
+  0.00	25	6	214	164	G1	86661	                  Bacillus cereus group
+  0.00	13	0	92	67	S	1396	                    Bacillus cereus
+  0.00	11	11	64	45	S1	526973	                      Bacillus cereus m1293
+  0.00	1	0	2	2	S1	1179100	                      Bacillus cereus biovar anthracis
+  0.00	1	1	2	2	S2	637380	                        Bacillus cereus biovar anthracis str. CI
+  0.00	1	1	2	2	S1	526969	                      Bacillus cereus m1550
+  0.00	3	2	25	24	S	1428	                    Bacillus thuringiensis
+  0.00	1	1	3	3	S1	527020	                      Bacillus thuringiensis IBL 4222
+  0.00	1	1	2	2	S	1392	                    Bacillus anthracis
+  0.00	1	1	11	10	S	64104	                    Bacillus pseudomycoides
+  0.00	1	1	9	6	S	1890302	                    Bacillus wiedmannii
+  0.00	4	0	111	42	G1	653685	                  Bacillus subtilis group
+  0.00	2	0	67	3	G2	653388	                    Bacillus mojavensis subgroup
+  0.00	2	2	66	2	S	72360	                      Bacillus mojavensis
+  0.00	1	0	15	13	S	1423	                    Bacillus subtilis
+  0.00	1	1	2	2	S1	135461	                      Bacillus subtilis subsp. subtilis
+  0.00	1	0	8	8	G2	1938374	                    Bacillus amyloliquefaciens group
+  0.00	1	0	2	2	S	1390	                      Bacillus amyloliquefaciens
+  0.00	1	1	1	1	S1	1292358	                        Bacillus amyloliquefaciens KHG19
+  0.00	4	0	76	62	G1	185979	                  unclassified Bacillus
+  0.00	2	2	3	3	S	1071080	                    Bacillus sp. SB49
+  0.00	1	1	8	6	S	2779776	                    Bacillus sp. HD4P25
+  0.00	1	1	6	5	S	352858	                    Bacillus sp. Y1
+  0.00	1	1	3	2	S	2598861	                  Bacillus miscanthi
+  0.00	1	1	8	5	S	561879	                  Bacillus safensis
+  0.00	1	1	5	4	S	1397	                  Bacillus circulans
