@@ -16,8 +16,8 @@ Suggests:
     Rsamtools,
     knitr,
     testthat
-Remotes: github::geekep/sankeyD3,
-        github::geekep/shinyFileTree
+Remotes: github::fbreitwieser/sankeyD3,
+        github::fbreitwieser/shinyFileTree
 License: GPL-3
 LazyData: TRUE
 RoxygenNote: 7.1.0

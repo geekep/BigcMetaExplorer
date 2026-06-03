@@ -49,10 +49,6 @@ docker run --rm -p 5000:80 florianbw/BigcMetaExplorer
 
 ## Screenshots
 
-![image](https://cloud.githubusercontent.com/assets/516060/20188595/5c8b9808-a747-11e6-9235-296a2314659a.png)
-
-[![Build Status](https://travis-ci.org/fbreitwieser/BigcMetaExplorer.svg?branch=master)](https://travis-ci.org/fbreitwieser/BigcMetaExplorer)
-
 ## Supported formats
 
 BigcMetaExplorer natively supports the Kraken and MetaPhlAn-style report formats. In extension, you can use Centrifuge results by running `centrifuge-kreport` on Centrifuge output files, and Kaiju results by running `kraken-report` on Kaiju output files (see issue #11)
