@@ -1,6 +1,6 @@
 BigcMetaExplorer is a interactive browser application for analyzing and visualization metagenomics classification results from classifiers such as Kraken, KrakenUniq, Kraken 2, Centrifuge and MetaPhlAn. BigcMetaExplorer also provides an alignment viewer for validation of matches to a particular genome.
 
-You can try out BigcMetaExplorer at [https://geekep.shinyapps.io/BigcMetaExplorer/](https://fbreitwieser.shinyapps.io/BigcMetaExplorer/){.uri}.
+You can try out BigcMetaExplorer at <https://bigc.shinyapps.io/shinyapp/>.
 
 ## Installation and deployment
 
@@ -36,7 +36,12 @@ BiocManager::install("Rsamtools")
 
 ## Installing to Shinyapps.io
 
-In order to install to Shinyapps.io, because of the Bioconductor repo dependencies, you need to first set the options using `setRepositories()` in R. At that point a \`rsconnect::deployApp("BigcMetaExplorer/inst/shinyapp/") should work.
+In order to install to Shinyapps.io, because of the Bioconductor repo dependencies, you need to first set the options in R.
+
+``` r
+setRepositories()
+rsconnect::deployApp("BigcMetaExplorer/inst/shinyapp/")
+```
 
 ## Docker image
 
@@ -44,14 +49,16 @@ As an alternative to installing BigcMetaExplorer in R, a Docker image is availab
 
 ``` sh
 docker pull 'geekep/BigcMetaExplorer'
-docker run --rm -p 5000:80 florianbw/BigcMetaExplorer
+docker run --rm -p 5000:80 geekep/BigcMetaExplorer
 ```
 
 ## Screenshots
 
+![](images/Presentation.jpg)
+
 ## Supported formats
 
-BigcMetaExplorer natively supports the Kraken and MetaPhlAn-style report formats. In extension, you can use Centrifuge results by running `centrifuge-kreport` on Centrifuge output files, and Kaiju results by running `kraken-report` on Kaiju output files (see issue #11)
+BigcMetaExplorer natively supports the Kraken and MetaPhlAn-style report formats. In extension, you can use Centrifuge results by running `centrifuge-kreport` on Centrifuge output files, and Kaiju results by running `kraken-report` on Kaiju output files.
 
 **Error: Maximum upload size exceeded** The maximum upload size is defined by the option `shiny.maxRequestSize`. To increase it to 500 MB, for example, run the following instead of `BigcMetaExplorer::runApp()`:
 
